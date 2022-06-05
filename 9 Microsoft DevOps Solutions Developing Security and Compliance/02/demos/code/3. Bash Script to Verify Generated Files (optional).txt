@@ -1,0 +1,5 @@
+printf "Current Directory\n"
+pwd
+printf "Directory Contents\n"
+ls
+cat zap-report.json

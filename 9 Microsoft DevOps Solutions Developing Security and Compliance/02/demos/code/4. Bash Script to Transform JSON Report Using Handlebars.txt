@@ -1,0 +1,1 @@
+handlebars zap-report.json < nunit-template.hbs > test-results.xml

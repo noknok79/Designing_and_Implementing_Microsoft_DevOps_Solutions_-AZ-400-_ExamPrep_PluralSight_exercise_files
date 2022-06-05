@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -TemplateFile './keyvault_armtemplate.json' -ResourceGroupName 'Pluralsight-MSDevOpsSolutionsScirptsCourse'

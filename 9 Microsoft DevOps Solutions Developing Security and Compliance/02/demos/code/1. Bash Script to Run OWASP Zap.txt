@@ -1,0 +1,3 @@
+chmod -R 777  ./
+docker run --rm -v $(pwd):/zap/wrk/:rw -t owasp/zap2docker-stable zap-baseline.py -t https://<your web app to test> -g gen.conf -x zap-report.xml -r zap-report.html -J zap-report.json
+true

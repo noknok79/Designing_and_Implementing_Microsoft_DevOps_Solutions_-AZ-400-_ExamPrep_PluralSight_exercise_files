@@ -1,0 +1,1 @@
+az storage blob upload-batch --account-name <your storage account name> --account-key <your storage account key> --destination zapreports --source /home/vsts/work/r1/a

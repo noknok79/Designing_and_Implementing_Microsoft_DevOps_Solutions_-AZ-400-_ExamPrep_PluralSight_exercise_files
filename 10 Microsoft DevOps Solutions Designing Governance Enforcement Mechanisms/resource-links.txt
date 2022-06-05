@@ -1,0 +1,25 @@
+Course Resources
+
+Security IntelliSense
+
+https://marketplace.visualstudio.com/items?itemName=azsdktm.SecurityIntelliSense-Preview
+
+ 
+
+VS Security Search
+
+https://marketplace.visualstudio.com/search?term=security&target=VS&category=Tools&vsVersion=&subCategory=All&sortBy=Relevance
+
+ 
+
+OWASP ZAP
+
+https://github.com/marketplace/actions/owasp-zap-baseline-scan
+
+https://marketplace.visualstudio.com/items?itemName=CSE-DevOps.zap-scanner
+
+ 
+
+Azure DevOps Decorators
+
+https://docs.microsoft.com/en-us/azure/devops/extend/develop/add-pipeline-decorator?view=azure-devops
